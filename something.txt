@@ -1,3 +1,5 @@
 Hello,
 what is your lunch today ?
 My lunch is kebap, what is your?
+My lunch is kebap.
+What is yous?
